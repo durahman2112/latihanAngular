@@ -19,4 +19,10 @@ Fitur:
 - Using Material for styling
 - CRUD at Product Page
 - Using Angular v.10.2
+- Using Angular Routes
 
+===On Development===
+- Authentication for multilevel user (login & register)
+
+
+Special Thanks to Farid Surya for the Tutorial 
